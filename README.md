@@ -1,1 +1,1 @@
-![snake](https://github.com/giribroba/giribroba/blob/output/snk.svg)
+![snake](https://github.com/giribroba/giribroba/blob/output/snake.svg)
